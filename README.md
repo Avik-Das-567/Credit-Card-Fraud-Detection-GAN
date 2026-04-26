@@ -1,4 +1,4 @@
-# Data Balancing with Generative AI for Credit Card Fraud Detection
+# Credit Card Fraud Detection Using GAN-Based Data Balancing
 
 ## Overview
 
