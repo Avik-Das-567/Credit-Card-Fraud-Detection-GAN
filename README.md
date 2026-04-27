@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Using GAN-Based Data Balancing
+# Credit Card Fraud Detection using GAN-Based Data Balancing
 
 ## Overview
 
